@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/add.svg</file>
+        <file>images/calendar.svg</file>
+        <file>images/stats.svg</file>
+        <file>images/edit.svg</file>
+        <file>images/delete.svg</file>
+        <file>images/back.svg</file>
+        <file>images/chevron_left.svg</file>
+        <file>images/chevron_right.svg</file>
+        <file>images/restaurant.svg</file>
+        <file>images/payments.svg</file>
+        <file>images/trending_up.svg</file>
+            <file>images/add_photo_alternate.svg</file>
+    </qresource>
+</RCC> 

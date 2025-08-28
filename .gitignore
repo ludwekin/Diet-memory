@@ -1,0 +1,62 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Qt Creator / IDE
+*.user
+*.pro.user*
+*.qmlproject.user*
+.idea/
+.vscode/
+*.autosave
+
+# Build directories
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+Testing/
+CMakeTmp/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+_compile_commands.json
+compile_commands.json
+
+# Autogen / Qt rcc moc uic cache
+*_autogen/
+*.qrc.depends
+*.qm
+*.rcc/
+*.rcccache/
+
+# App bundles / binaries
+*.app/
+*.dSYM/
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.o
+*.obj
+*.lo
+*.la
+
+# Logs / temp
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Coverage / sanitizers
+*.gcno
+*.gcda
+*.profraw
+*.profdata
+
+# Python / Node (if any tooling used)
+__pycache__/
+node_modules/ 
